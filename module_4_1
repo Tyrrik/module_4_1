@@ -1,0 +1,7 @@
+import true_math as true
+import fake_math as fake
+
+result1 = fake(69, 3)
+result2 = fake(3, 0)
+result3 = true(49, 7)
+result4 = true(15, 0)
