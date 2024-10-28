@@ -5,7 +5,3 @@ def divide (first , second):
          print(inf)
     else:
         print(first/second)
-
-
-result3 = divide(49, 7)
-result4 = divide(15, 0)
